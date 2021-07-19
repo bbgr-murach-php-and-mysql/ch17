@@ -1,7 +1,7 @@
 -- create and select the database
-DROP DATABASE IF EXISTS my_guitar_shop2;
-CREATE DATABASE my_guitar_shop2;
-USE my_guitar_shop2;
+DROP DATABASE IF EXISTS my_guitar_shop3;
+CREATE DATABASE my_guitar_shop3;
+USE my_guitar_shop3;
 
 -- create the tables for the database
 CREATE TABLE customers (
